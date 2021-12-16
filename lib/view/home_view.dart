@@ -210,7 +210,7 @@ mainAxisAlignment: MainAxisAlignment.spaceBetween,
             color: Colors.white,
           ),
                 child: ListTile(
-                  contentPadding: EdgeInsets.all(10),
+                  contentPadding: EdgeInsets.all(10), 
                   leading: TextButton(
                     onPressed: null,
                     child: Icon(Icons.check),
